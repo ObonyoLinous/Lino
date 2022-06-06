@@ -1,0 +1,2 @@
+# Lino
+Hard work counts
